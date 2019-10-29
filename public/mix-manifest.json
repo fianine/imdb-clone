@@ -1,4 +1,13 @@
 {
     "/css/main.css": "/css/main.css?id=7cf2cba3a5bda96d8344",
-    "/js/main.js": "/js/main.js?id=5997c3664427ce6bdf53"
+    "/css/signin.css": "/css/signin.css?id=00e205f17ee0cd3f59d5",
+    "/js/main.js": "/js/main.js?id=5997c3664427ce6bdf53",
+    "/css/login.css": "/css/login.css?id=17a1972bf66a7720051f",
+    "/js/login.js": "/js/login.js?id=1477c3d2643bd461cb72",
+    "/css/dashboard.css": "/css/dashboard.css?id=8e443ded1d46c22bb18b",
+    "/css/plugins.css": "/css/plugins.css?id=ed8b511bcbecb4e51222",
+    "/js/dashboard.js": "/js/dashboard.js?id=2d111b728175c12c11a2",
+    "/css/about.css": "/css/about.css?id=28946a501c5bc47479a2",
+    "/js/about.js": "/js/about.js?id=5016fc53c0cfa151e98b",
+    "/js/sweetalert.js": "/js/sweetalert.js?id=2fbf0224e9e82ff2ea35"
 }

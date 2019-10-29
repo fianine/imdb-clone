@@ -53,7 +53,7 @@
 		</div>
 		<div class="navbar navbar-dark bg-dark shadow-sm">
 			<div class="container d-flex justify-content-between">
-				<a class="navbar-brand d-flex align-items-center" href="#">
+				<a class="navbar-brand d-flex align-items-center" href="{{ url('/') }}">
 					<strong>IMDB</strong>
 				</a>
 				<button aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarHeader" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
